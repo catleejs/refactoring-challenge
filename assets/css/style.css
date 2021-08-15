@@ -4,19 +4,6 @@
     margin: 0;
 }
 
-/* color variables */
-
-.root {
-    --white: #ffffff;
-    --light: #d9dcd6;
-    --light-blue: #2589bd;
-    --blue: #0072bb;
-    --teal: #2589bd;
-    --dark-blue: #2a607c;
-}
-
-/* color variables end */
-
 body {
     background-color: var(--light);
 }
