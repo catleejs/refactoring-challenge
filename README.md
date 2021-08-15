@@ -14,7 +14,7 @@ This is a clean up of **existing code https://github.com/coding-boot-camp/urban-
 
 ### What the working site looks like:
 
-![Horiseon Gif](https://github.com/madileesmith/Refactoring-Horiseon/blob/main/Develop/assets/images/horiseon.gif)
+![Horiseon Gif](assets\images\horiseon.gif) 
 
 ### Live site link: 
 
