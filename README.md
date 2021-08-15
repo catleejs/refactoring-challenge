@@ -18,4 +18,4 @@ This is a clean up of **existing code https://github.com/coding-boot-camp/urban-
 
 ### Live site link: 
 
-https://madileesmith.github.io/Refactoring-Horiseon/
+https://madileesmith.github.io/refactoring-challenge/
